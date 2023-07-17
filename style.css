@@ -6,3 +6,19 @@
     border: 1px solid lime;
     gap: 4px;
 }
+
+.detail-header {
+    display: flex;
+    padding: 1rem;
+    gap: 8px;
+}
+
+.detail-header h2 {
+    margin: 0px;
+}
+
+#brewery-container {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
